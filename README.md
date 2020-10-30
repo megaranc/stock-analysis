@@ -14,12 +14,12 @@ Same as the results we got from "All Stocks Analysis" in module 2, we should be 
 #### Comparison of Code Performance for 2017
 
 ![](Resources/VBA_Challenge_2017.png)
-![](Resources/Original Run time 2017.png)
+![](Resources/Resources/OriginalRuntime2017.png)
 
 #### Comparison of Code Performance for 2018
 
 ![](Resources/VBA_Challenge_2018.png)
-![](Resources/Original Run time 2018.png)
+![](Resources/OriginalRuntime2018.png)
 
 ## Summary
 
